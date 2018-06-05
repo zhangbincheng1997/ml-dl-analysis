@@ -1,5 +1,6 @@
-# movielens-analysis
+# ml-dl-analysis
 
-本实验将会使用公开数据集 MovieLens (ml-100k)作为数据源，该数据集可以通过网页https://grouplens.org/datasets/movielens/100k/下载。
-
-该数据集记录了943个用户对1682部电影的共100,000个评分，每个用户至少对20部电影进行了评分。这些数据中包括电影评分、电影元数据（风格类型和年代）以及关于用户的人口统计学数据（年龄、邮编、性别和职业等）。
+0. Machine Learning + Deep Learning 数据挖掘-电影评分
+1. Apriori 关联分析
+2. KNN 分类
+3. K-means 聚类
